@@ -13,7 +13,7 @@ namespace GitTest.Controllers
 
         public ActionResult Index()
         {
-            //コメント追加
+            //コメント追加ssss
             return View();
         }
 
